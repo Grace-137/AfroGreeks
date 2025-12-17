@@ -826,6 +826,18 @@
         {
           "tag": "Translation",
           "category": "Annotation"
+        },
+        {
+          "tag": "Filippos Fasoulas",
+          "category": "Performer"
+        },
+        {
+          "tag": "Dimitris Tasenas",
+          "category": "Performer"
+        },
+        {
+          "tag": "Riad",
+          "category": "Performer"
         }
       ],
       "uuid": "d3596260-83d4-4c53-87d9-4fac3f914ecf"
