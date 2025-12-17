@@ -1,5 +1,4141 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Remember this Song "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Opening Titles",
+          "category": "Credits"
+        }
+      ],
+      "uuid": "51459f58-3030-40ce-a1c1-5ce1654511fc"
+    },
+    {
+      "start_time": 5,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The protagonists of the ongoing collective community project the AfroGreeks are creating a musical performance dedicated to Afro-American writer, essayist, playwright, and activist James Baldwin, for the 101st anniversary of his birth. They are inspired by the records Baldwin loved to listen to. Hammer Museum curator Ikechúkwú Onyewuenyi compiled a list he called Chez Baldwin, which is a Spotify playlist of records Baldwin owned. It is a 478-track, 32-hour celebration of what the author enjoyed listening to, while living in St Paulde-Vence, France."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "1528e601-b213-411e-b736-76e7f8acc07b"
+    },
+    {
+      "start_time": 9,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The streets of Athens "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Οutdoor setting"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "8abe6807-6bd4-4da1-a422-ec5739560f01"
+    },
+    {
+      "start_time": 13,
+      "end_time": 23,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Olympia Theater is one of the city’s most iconic cultural institutions. For decades, it was the home of the Greek National Opera and the center where major artistics productions were showcased. This theatre was renamed Olympian Theatre Maria Calls to honour the famous Greek American soprano's legacy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Space Significance",
+          "category": "Location"
+        }
+      ],
+      "uuid": "b6b2899b-66d8-4d34-82dc-5cfe463154a7"
+    },
+    {
+      "start_time": 24,
+      "end_time": 89,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcoming of the audience and artists who will be performing shortly.  Performers are drumming in the entrance chanting traditional songs from Senegal and improvising. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "7e654124-f5f5-470f-b3b3-7fc5363414aa"
+    },
+    {
+      "start_time": 90,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The performers all come from different countries but frequently play together and can easily communicate while performing. It is easy to observe that the ending of the performance was not something pre-set, Dauda gives a nod to hint that the next loop played would be the last one and they all simultaneously end the performance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "7306ef09-1e66-45b2-a008-9dac1b25fb98"
+    },
+    {
+      "start_time": 146,
+      "end_time": 158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The audience is getting comfortably seated while clips from various events implemented in the project the Afro-Greeks are playing in a loop. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "3e42b325-22aa-432b-9b42-25b97b8605c6"
+    },
+    {
+      "start_time": 159,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Caught off-guard waiting for the event to begin on stage, the Pamoja Kanda Choir walks in from the back singing a traditional song from South Africa. The song is called Bao, meaning Father/Lord and it refers to the guidance someone seeks from the Lord in all the sorrows of today’s world and how thankful they are, being protected. The Pamoja Kanda Choir’s members are from all over Africa. In their performances, they sing chants in the form of call-and-response where members of the choir are invited to respond to each of the vocal calls. The call-and-response practice as a musical tradition used in several African countries and it is on most occasions accompanied with stomping clapping and dancing along. One thing to notice is the ululation which you will encounter several times in the following performances, as a practice used in all parts of Africa and among the African Diasporic community around the world. Ululation is used to express strong emotions. In this instance, it serves as a general sound of cheer, as joy is expressed, and it drastically invigorates the performers who start to either ululate as well or sing louder and livelier. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "6b9694df-3a00-47a4-bf3e-124ea1d9abf9"
+    },
+    {
+      "start_time": 356,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Døcumatism has been documenting and co-creating initiatives with members of the African Diaspora since 2009, but officially started to work on the project the AfroGreeks in 2015.  This highlighted event was filmed in 2020 when Afro-Greeks represented Greece together with 44 other countries on Human Rights Day. This event stands out being the first official acquaintance the project and its protagonists had with the American writer and activist James Baldwin, as most of us had the chance to watch the movie I am not your Negro for the first time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "02dc4099-b71d-4aa3-9f24-897934db95d2"
+    },
+    {
+      "start_time": 612,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the 1960s, renowned author James Baldwin returns from Europe to America to join the African American movement. Two decades later, in 1979, he embarked on a complex undertaking. To tell his own version of American history through the lives of three murdered friends. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "760748c3-ca82-4961-bd58-10e92cd0f28f"
+    },
+    {
+      "start_time": 635,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Edgar Evers, Martin Luther King, and Malcolm X. Baldwin's notes never exceeded 30 pages and were titled \"Remember This House.\" His manuscript remained unfinished"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "55c0e766-0630-4065-804c-38236bafa121"
+    },
+    {
+      "start_time": 650,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This title and these notes became the inspiration for us, the Afro-Greeks, heroes of the project “the AfroGreeks\" to tell the story today, musically, in our own way. To tell the history of the African Diaspora in Greece as part of the national narrative and as a chapter of the African Diaspora around the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "debcdcfb-5207-4ed5-9b94-9c0b9836149b"
+    },
+    {
+      "start_time": 671,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The project “the AfroGreeks” began in 2009 as research that led from filming and documentation to the first public action in 2015 in Kypseli. This project is on-going up till today through its artistic practice of combing moving image with public actions on critical issues concerning the African Diaspora in Greece, creating dialogues which set in motion possible solutions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "964edb03-14df-42c3-9cae-0a7d769d9828"
+    },
+    {
+      "start_time": 693,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today our archive archive includes over 350 heroes, 111 films presented as video installations in art spaces and in unexpected settings in Athens and the rest of Europe, 65 public actions - with this one today 66 - and an audiovisual archive of the African Diaspora in Greece and the Mediterranean over the last four centuries, along with 200 interviews of Afro-Greeks which is a number that is increasing. We are Grace Nwoke and Xenia Dania"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "b78b178b-18a4-4da4-bde3-1653459db50c"
+    },
+    {
+      "start_time": 723,
+      "end_time": 729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am an anthropologist, and a performer and Xenia is an actress and everything else an artist who is constantly on display needs to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "494ada66-b876-4504-abdb-e6b75077c859"
+    },
+    {
+      "start_time": 730,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Today we will inaugurate this year's Black History Month in Greece with a celebration of the 101st anniversary of James Baldwin's birth, an ode to the Athens we love, a musical statement that we are here and we do not forget those who fought before us as promise that we will continue to claim our rights in a city we love and that tonight gave us its Municipal Theater. It is very important for all of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "1fec137c-305b-4192-9e44-69bec56d3e92"
+    },
+    {
+      "start_time": 760,
+      "end_time": 786,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It gives us great joy and we welcome you to a musical adventure that includes songs, dance, films, stories, improvisation, and everything that brings us together and makes us feel present and ready to claim a better future. Esther Obediah came with Prince and their baby from Dublin for our concert. She will be accompanied by Steven Aderinto on piano."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "2ee15bab-3a4c-4fa0-8f3e-70dadacd4b83"
+    },
+    {
+      "start_time": 787,
+      "end_time": 811,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He came especially for the concert from London where he works and writes his new songs and most of us also do other jobs so that we can be the artists we want to be. Together with Esther will be Rachel Noke who came from Manchester where she works as a MEA. Jessica Anosike who you will meet here with us today and we will all sing along with Esther."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a47ac897-6270-43ed-9efd-a8a3cd7ef67c"
+    },
+    {
+      "start_time": 812,
+      "end_time": 828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Afro-Greeks, wherever we live, we declare that we are Greeks. Some of the songs that Esther will sing tonight are selected from Baldwins playlist of owned records. Esther will also be singing two other songs, one of which she wrote and produced and will be performing for the first time at this concert for us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "9442bfba-dffa-4de8-841b-ba92127d5ab3"
+    },
+    {
+      "start_time": 829,
+      "end_time": 830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "3d2368f6-6560-48e4-b8a6-89f60cba83be"
+    },
+    {
+      "start_time": 831,
+      "end_time": 833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Opening performance  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Esther Obediah",
+          "category": "Performer"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "03b2ad86-6947-4c51-b095-1716625152cc"
+    },
+    {
+      "start_time": 834,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know how it feels – Nina Simone "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Jazz",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "accb195b-8a3b-4391-bf5c-554b296df6a3"
+    },
+    {
+      "start_time": 1002,
+      "end_time": 1003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "56c8595f-d88e-48e2-8565-a4faf6f422f2"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We welcome you. This is an original song written and produced by Esther Obediah "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Esther Obediah",
+          "category": "Performer"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Rachel Nwoke",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "4461e531-317e-41b0-a062-1669c84c5003"
+    },
+    {
+      "start_time": 1216,
+      "end_time": 1399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Way Maker "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Esther Obediah",
+          "category": "Performer"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Rachel Nwoke",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "32c4c849-1023-4bf2-94f4-747b7332233c"
+    },
+    {
+      "start_time": 1400,
+      "end_time": 1401,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "0943c56e-3443-404a-a11d-ddede5c19cdb"
+    },
+    {
+      "start_time": 1403,
+      "end_time": 1565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - I worship you Almighty God "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Esther Obediah",
+          "category": "Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "c4846759-1793-4b68-afc7-d1d1fb127cb0"
+    },
+    {
+      "start_time": 1566,
+      "end_time": 1568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "70348248-5ed7-4811-94c9-f97971a0f252"
+    },
+    {
+      "start_time": 1578,
+      "end_time": 1614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baldwin loved music. He said he needed it to endure discrimination, abusive comments about his skin color and sexuality, and the difficulty of being an artist. He felt that black songs empowered him and became a unifying element that bridged African traditions with his life and passions today. He collected records of songs he loved. Songs that helped him write and live passionately, just as he wanted. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "43a85f8c-272b-4627-9768-cdbe8f8d0334"
+    },
+    {
+      "start_time": 1615,
+      "end_time": 1626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelos Angelou and his team, Filippos Fasoulas, Dimitris Tassenas, and Riad, took Deep in Love from Baldwin's list and made it part of a Greek folk musical tradition, which is not afraid of influences from the East."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "d3596260-83d4-4c53-87d9-4fac3f914ecf"
+    },
+    {
+      "start_time": 1627,
+      "end_time": 1628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All the acts performed in this event are inspired by James Baldwin’s playlist. They are moulded into new creations which carry a plethora of symbolic meanings. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "37c86c4f-c165-43da-858c-b2b9e36127e3"
+    },
+    {
+      "start_time": 1629,
+      "end_time": 1644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Angelos was born in Atalanti, and from a young age he experienced discrimination and abusive behaviours due to the color of his skin and his sexual orientation. He studied classical music, played traditional music at festivals with his three brothers throughout Lokrida - region in Central Greece"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a4bdfa23-812b-4296-8bc4-9853be015605"
+    },
+    {
+      "start_time": 1645,
+      "end_time": 1664,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He fell in love with demonstrations and public spaces in Athens during the economic crisis, as he freely wandered as a young musician having the chance to travel around and be part of several initiatives. He transformed public spaces into musical fields of experimentation and celebration. He plays his music in unexpected places throughout Greece and his collaborations with the project the Afro Greeks have been showcased in exhibitions and loved throughout Europe, from Geneva to London and Sofia."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "0342bf18-c9cb-4229-b496-5772e0bb91c0"
+    },
+    {
+      "start_time": 1665,
+      "end_time": 1686,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tonight, he wants to add one more musical piece to Baldwin's list. I'm sure Baldwin himself will listen to it wherever he is and will like it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a8e0bcd6-3a53-43bd-8a2c-bd91289ceb99"
+    },
+    {
+      "start_time": 1687,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The traditional Greek song – Κοιτα με γλυκια μου αγάπη (Look at me my sweet love, is merged with Deep in Love.  Aggelos chose to create and Amane in this fusion.  Amanes is a distinctive type of monodic, heavy, and drawn-out lamenting song, sung in the “eastern” manner which is rooted in Byzantine music. For a period of time during the Ottoman era Amanes was not sung. It took its name from the frequently repeated exclamation “aman” (meaning “mercy, pity”). From a musical perspective, amanes follow their own specific technique. To deliver a single distich, the performer may extend the song for as long as five whole minutes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Aggelos Aggelou",
+          "category": "Performer"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Greek Folk",
+          "category": "Performance"
+        },
+        {
+          "tag": "Dimitris Tasenas",
+          "category": "Performer"
+        },
+        {
+          "tag": "Riad",
+          "category": "Performer"
+        },
+        {
+          "tag": "Filippos Fasoulas",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "96a89b69-f4af-47fd-a818-f7f646da9f59"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 2149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Notice the background clip projected. These clips are from an action organized by the AfroGreeks project, where students of African descent from the 26th primary school in Kypseli participated in a two-day painting workshop. The theme was the creative management of concepts such as origin and homeland. They were under the guidance of their arts teacher Irene Bazara who designed the workshop together with members of the project the AfroGreeks. Actor and model Vassilis Michas, shared with the children special knowledge about the pacing of the Evzones (a ceremonial unit of the Presidential Guard, dressed in iconic uniforms). Unfortunately, despite the special training he received, he did not eventually become an Evzone because of his Albanian origin. In the workshop the protagonists of the AfroGreeks Joshua Edoze and Tony Tsamouras were introduced to the special way the tsoliades (another common name for Evzones) dressed, and walked like Evzones, acting as models for the works painted by the students, who were inspired to paint an Evzone who looked like them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "891be6ab-7bc2-4a32-a9a9-43b4dcc6de7a"
+    },
+    {
+      "start_time": 2150,
+      "end_time": 2151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "36e38d4d-7c6e-47ef-acc0-cd5d98cd5054"
+    },
+    {
+      "start_time": 2155,
+      "end_time": 2182,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mikel and Kofi are two dancers who have taken the AfroGreeks project to many countries, encouraging local street artists to participate actively in our public events. They work as delivery guys to make a living, but they have set up a dynamic art studio in the city center, where they teach hip hop and collaborate with other dancers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "8c1b23ec-63e7-47cf-af41-f22bfa720f90"
+    },
+    {
+      "start_time": 2183,
+      "end_time": 2196,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And they organize dance battles all over Europe. Mikel is the one you said the term Afro Greek in the first video of the project and from there on the term began to be used widely in public. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "da641245-9fea-4524-8571-da8e4cd4246e"
+    },
+    {
+      "start_time": 2197,
+      "end_time": 2215,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Artist Mc Yinka mentioned the word AfroGreek in 2009 in his song Kerma. In the project the Afro-Greeks, some love the term, because it implies an assertive movement, others prefer to use their country of origin as a composite to Greek. Give an example."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "048aed22-be7a-42ee-a6ce-0c0187fed6d8"
+    },
+    {
+      "start_time": 2216,
+      "end_time": 2217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nigerian - Greek "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "02065acd-3c0a-4e5d-aacc-ad20797b0643"
+    },
+    {
+      "start_time": 2218,
+      "end_time": 2232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Exactly. Some others consider it a bridge that will lead to the acceptance that there are black Greeks. And others are hearing it for the first time. And that's where great conversations begin. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "48f1e36a-6281-493f-a4a3-4f14ea226ebe"
+    },
+    {
+      "start_time": 2233,
+      "end_time": 2239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I chose a text by Baldwin about racism and the color black."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Kofi",
+          "category": "Performer"
+        },
+        {
+          "tag": "Hip Hop",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dance"
+        }
+      ],
+      "uuid": "74e89323-d32d-46d5-97f2-e7e3478e0b0a"
+    },
+    {
+      "start_time": 2240,
+      "end_time": 2381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Texts woven together with poems written by James Baldwin, Maya Angelou, and Martin Luther King Jr. plays is narrated while Mikel and Kofi perform. On the projection in the background, you can see the live event organized in Geneva during the projects exhibition when Mikel and Kofi created a gathering which opened an alternative platform, shaped through art, hip hope battles and community. Through this event, they created space for connection, visibility, and collaboration with local Black artists in Geneva, offering a powerful reminder that community can be built even in places where it feels invisible. All this in a city where we questioned as Afro-Greeks whether a Black community exists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenterand Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Kofi",
+          "category": "Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dance"
+        }
+      ],
+      "uuid": "53488878-c97a-4625-9131-075c5d485606"
+    },
+    {
+      "start_time": 2382,
+      "end_time": 2687,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Texts Read in English by Grace and translated by Xenia to Greek \nMartin Luther King said: \nWe not only have the right to be free, we have a duty to be free.\nJames Baldwin said: \nIn fact, we were simply trapped in the same situation.\nJames Baldwin said: \nYou get a great shock when you discover that the country where you were born and to which you owe your life and your identity has not provided in its whole system of reality an inch of space for you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "dd6b1fb4-1a4f-474d-adc3-543265fbaba3"
+    },
+    {
+      "start_time": 2688,
+      "end_time": 2690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "422a1aec-b626-42ed-8332-fce8166b864f"
+    },
+    {
+      "start_time": 2709,
+      "end_time": 2711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At the core of this collective community project lays the passion to create live events in collaboration with members of the African communities in Greece who are co- producers and co-organizers of live actions that address crucial social issues and raise awareness. All the artists involved curated their performances and even wrote pieces they wanted to incorporate in their acts. Mikel wrote the following piece to express his lived experience of racism and exclusion as a young Black man growing up in Greece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "12ed5429-1307-4657-bfb0-880616605eba"
+    },
+    {
+      "start_time": 2712,
+      "end_time": 2737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Greece, do you love me or not? I wake up in the morning to go to school, but I sit at the back of the class and mess around because deep down I don't feel welcome. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black lived experience in Greece",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "3c1b6ad9-da8a-474a-a95d-f3387858080d"
+    },
+    {
+      "start_time": 2738,
+      "end_time": 2757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Greece, do you love me or not? Returning home, I wait for the subway, get in and sit next to a woman, but she gets up and leaves. Showing me in an exemplary way that I am stink."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black lived experience in Greece",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "e45db164-f9c8-4efa-bd85-a6e65bd7d562"
+    },
+    {
+      "start_time": 2758,
+      "end_time": 2776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Greece, do you love me or not? I go to the office to get a document and a birth certificate.  And even though I was born and raised here, they tell me to go to my country to get those"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black lived experience in Greece",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "7f879457-035a-431a-a315-9f6f1e387395"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2808,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Greece, do you love me or not? The day comes for me to visit my girlfriend's parents and the first thing her father says to his daughter about me is, \"Of all the men, you had to bring him.\"? Greece, do you love me or not?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black lived experience in Greece",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "3871356f-4046-4793-b43a-2d85f49cfbb9"
+    },
+    {
+      "start_time": 2809,
+      "end_time": 2839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And finally, I return home and see my mother exhausted from the three jobs she has to do to make ends meet, She is unhappy because she doesn't know if her son will ever make it in Greece In the end, she looks me in the eyes and says \"Don't give up, we didn't make it today, but don't lose faith, there is hope for tomorrow.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black lived experience in Greece",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "e9c5639d-744a-4b07-8f91-3a824eb8c426"
+    },
+    {
+      "start_time": 2840,
+      "end_time": 2846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Greece, do you love me or not? Thank you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Black lived experience in Greece",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mikel",
+          "category": "Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a33e093e-2299-4c9b-837e-54080d5f787d"
+    },
+    {
+      "start_time": 2847,
+      "end_time": 2849,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "7f8e87d9-5c35-4eeb-84d9-f339ba770acc"
+    },
+    {
+      "start_time": 2863,
+      "end_time": 2882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baldwin based much of his work on his relationship with the church and religion since childhood. In his book Go tell it on the mountain, he describes the spiritual crisis that led him to become an artist rather than a preacher, as his family had planned."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "fce541a9-e23c-4147-b5d4-458ce2138f5f"
+    },
+    {
+      "start_time": 2883,
+      "end_time": 2906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this book, he recounts the collective odyssey of Black Americans, their deep and complex relationship with religion and their relentless struggle against injustice, misogyny, and racism How one defines oneself. How free an African American could be in the 1930s and how much similar are the feelings we have, a century later."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "c6a76856-b3f6-4460-8b77-7200614ab078"
+    },
+    {
+      "start_time": 2907,
+      "end_time": 2921,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven Anderinto was born in Athens. He loved and learned music in church, in Omonia – a neighbourhood in downtown Athens-, where his father is the pastor. My father is the pastor too. James Baldwin’s stepfather was also a pastor."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a8d5cc87-137b-4fcf-9309-dcec19b7fea5"
+    },
+    {
+      "start_time": 2922,
+      "end_time": 2940,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are all fighting with the same demons. Steven now lives in London. He came especially for this concert and does not forget gospel music. The songs he writes attempt a modern approach to life through the eyes of an Afro-Greek, who, although born in Greece, would not be given citizenship."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "77eac4af-31fb-4f27-9912-3b97653ce616"
+    },
+    {
+      "start_time": 2941,
+      "end_time": 2969,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And this hindered his life in every way. So, he decided, just as every Greek does when placed in a dead-end situation, to leave and seek better opportunities abroad. Steven chose from the list of songs that Baldwin loved, Mercy and Down by the River."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "2518161d-25fa-4682-84c3-13aded88a726"
+    },
+    {
+      "start_time": 2970,
+      "end_time": 2981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The practice of the collective community project—in progress—the AfroGreeks is based on the moving image as the starting point and end point of public actions that are filmed. Each member of the project participates in a filmed open-ended discussion which is unscripted. The conversation can vary beginning from introducing who they are, what they do and what their views are on topics they are interested in. These videos can be from an hour to 3 hours long depending on what the person wishes to share, and some members of the project have been filmed multiple times over the years. The work presented here is a 3-channel digital video composed from segments of these interview, carefully put together without compromising altering or influencing the perspectives and words of the protagonist. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Projection"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steven Aderinto"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a00c47c6-37c3-4010-8f8e-15bb750165e7"
+    },
+    {
+      "start_time": 2982,
+      "end_time": 3019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am a child who has roots from Nigeria, was born in Greece. Meaning, I have always been in- between (in the middle).  I live in a Greek society. BUT at home it is Nigeria. Outside the house it is Greece. If you say you're Greek and you go out and they show you that you're not, you'll start to stop believing it. So, the problem isn't just saying I'm Greek. Sometimes the problem is also saying that I am Nigerian to my people"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "182ff335-a52c-4d91-be0b-611f7a80b52c"
+    },
+    {
+      "start_time": 3020,
+      "end_time": 3167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven comments on a major issue most AfroGreeks face being in between two worlds. Not considered Greek due to the skin colour and not considered African either (in his case Nigerian. He explains the paradox of being treated as a foreigner in the only country you have known and have thought that you belong in. It is a feeling that has haunted the majority of Black Greeks throughout their upbringing in Athens, and having to deal with microagressive and ignorant questions during their interaction with their white counterparts has always been a challenge. Steven, much older and mature now -compared to 5 years ago when the first interview was done- leaves the worries behind and finds comfort, strength and purpose through his art."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "dea21d72-df73-4d15-ab7e-b03362990369"
+    },
+    {
+      "start_time": 3168,
+      "end_time": 3219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born in the church he says. Just like Baldwin in a metaphorical sense mentions in his writings that he was born in the church, as the church shaped his life. Steven explains how the way he was brought up by a dad who was a pastor shaped his life and relationship with music. He expresses how he does not play just one genre of music, but he effortlessly experiments with a variety of elements and creates, knowing that people he meets are prejudiced and expect him to play a certain kind of music due to his upbringing and the colour of his skin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "1798c1c7-d4da-4561-b20c-be00dd9ec419"
+    },
+    {
+      "start_time": 3220,
+      "end_time": 3234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rebetiko music, or Rebetiko, is the Greek urban folk music that appeared in the late 19th century and acquired its familiar form roughly by the third decade of the 20th century. This music developed mainly in the ports of Greek cities where the working class lived (Piraeus, Thessaloniki, Volos) and later spread to other urban centers. Today, it officially belongs to UNESCO’s list of Intangible Cultural Heritage. The themes of rebetiko songs reflect the experiences and struggles of urban society at the time and originating as a subcultural expression and often associated with marginality, it evolved into a vehicle for anti-establishment sentiment and social critique. It is far more than just a musical genre. It is a cultural imprint, a living testimony of the people who created it and kept it alive. Even today, it is known as ‘’Greek Blues’’ and nearly a century later it continues to move, inspire, and remain a point of reference in contemporary Greek musical creativity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "a62f4f52-5333-42af-9b96-6c43e68d61c2"
+    },
+    {
+      "start_time": 3235,
+      "end_time": 3423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Mercy Mercy Me "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Soul",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steven Aderinto"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "c47a746f-f8c1-47d9-86f4-83da905ed59e"
+    },
+    {
+      "start_time": 3424,
+      "end_time": 3428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "effaab49-b1bd-4989-8fca-c89a210c4b3d"
+    },
+    {
+      "start_time": 3432,
+      "end_time": 3568,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Down by the River "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steven Aderinto"
+        }
+      ],
+      "uuid": "7a0b70c6-2cae-4353-aa02-dee62e29dfc2"
+    },
+    {
+      "start_time": 3569,
+      "end_time": 3605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steven is a true performer and always interacts with the crowd clap and response is always the best way to start that interaction."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "d46533d9-0772-4c1b-8a69-972678adf65f"
+    },
+    {
+      "start_time": 3606,
+      "end_time": 3619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "d01dc161-5afc-4a9b-876c-bdd8d1be25ce"
+    },
+    {
+      "start_time": 3621,
+      "end_time": 3637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Xenia selected two songs from Baldwin's list after rehearsing quite a few several times. She chose two songs that will not let you give up not hesitate to take action because change is gonna come."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "6c371e0e-fee3-450c-94fb-74ed934a8266"
+    },
+    {
+      "start_time": 3638,
+      "end_time": 3660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everything you dream of will come true. Your sins are your badges of honour. Will music save us?  She paired her performance with some words Baldwin shared in a conversation he had with Dr. Clark in 1963. Xenia Dania will be accompanied by Steven Aderinto on the piano, and I hope you will join by clapping like you just did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "c28458a4-fdd1-4b0a-9cfe-30b09b72feec"
+    },
+    {
+      "start_time": 3661,
+      "end_time": 3662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "3060c192-36bb-4cf5-8338-3f63e2438986"
+    },
+    {
+      "start_time": 3664,
+      "end_time": 3902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - A change is going to come "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Soul",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "30208a9f-734d-462d-aec0-7e30956f9c62"
+    },
+    {
+      "start_time": 3903,
+      "end_time": 3906,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "75c3d97e-5863-49b6-8861-337109181b3e"
+    },
+    {
+      "start_time": 3912,
+      "end_time": 4002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Sinner Man "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jaz"
+        },
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        }
+      ],
+      "uuid": "69e2f462-9121-481f-bbe1-3c76a5a2a9d2"
+    },
+    {
+      "start_time": 4003,
+      "end_time": 4004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "James Baldwin’s words from his conversation with Dr. Kenneth Clark (1963)."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Spoken Word",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "69652935-6d80-4f0e-b872-f7c0d91a5df5"
+    },
+    {
+      "start_time": 4005,
+      "end_time": 4116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are days—this is one of them—when you wonder what your role is in this country and what your future is in it. How, precisely, are you going to reconcile yourself to your situation here and how you are going to communicate to the vast, heedless, unthinking, cruel white majority, white majority of this place. I am terrified at the moral apathy, the death of the heart, which is happening in my country. These people have been deluded themselves for a long, they really don’t think I am human.  I have to base this’ll on their conduct, not on what they say, and this means that they have become in themselves moral monsters. It’s a terrible indictment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Spoken Word",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Xenia  Dania"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        }
+      ],
+      "uuid": "15a2c36d-c903-4b0d-a9dc-f64742ae1c8d"
+    },
+    {
+      "start_time": 4117,
+      "end_time": 4186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Interaction with the audience, which is also a form of support, encouraging the artist "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "fad428e4-b0bf-458e-a4d5-c376329a57ed"
+    },
+    {
+      "start_time": 4187,
+      "end_time": 4202,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "f53c8da8-d54b-45b7-b41d-c2153f95e54d"
+    },
+    {
+      "start_time": 4203,
+      "end_time": 4221,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "MC Yinka together with Alexandros Dermanis address Baldwin directly, who if he were with us today would agree that our stories and concerns have a lot of similarities with those of the heroes in his works."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "22e4d55a-acef-4926-a9ca-6dbc374f61c4"
+    },
+    {
+      "start_time": 4222,
+      "end_time": 4247,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As anyone who reads his books or listens to him on the internet can see that they are very similar. How much longer will we feel like strangers or foreigners and why? Is it that as long as we turn everything that affects us into art and music maybe then we can find a way out of this? Mc Yinka on the screen. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "23dc0be5-e87c-4e16-b0c4-304fce367f15"
+    },
+    {
+      "start_time": 4248,
+      "end_time": 4298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mc Yinka one of the most famous and influential artists in Greek rap. Tracing back who coined the term Afro-Greek, the term is found in Greek in his song to Kerma, released back in 2009. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Video Projection",
+          "category": "Digital"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "fcfeafb6-f994-45aa-8d2e-c0a1b524073b"
+    },
+    {
+      "start_time": 4301,
+      "end_time": 4361,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mc Yinka’s story truly encapsulates the lived reality of Black young boys in Greece in the 1990s and early 2000s. During that period, the legal gap in the Greek migration system left many children of migrants—those born and raised in the country—without citizenship at birth. They were literally left without any form of legal identification that could justify their presence in the country. All they possessed was a birth certificate, which did not count as a valid identification document. While the first generation of migrants was eventually required to obtain residence permits to prove their entry and employment status in Greece, there was no corresponding legal provision for their children. This “second generation” was left in a state of bureaucratic limbo. For Black boys in particular, this gap had severe consequences: they were frequently racially profiled and stopped by police as early as age 15 or 17. During such encounters, their birth certificates were dismissed as insufficient proof of identity, leading to prolonged interrogations and detentions that could last for hours while authorities attempted to determine their legal status."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "22c759b9-a235-4e50-a35b-ba03190fc327"
+    },
+    {
+      "start_time": 4362,
+      "end_time": 4384,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mc Yinka narrates this story in a strikingly creative way – through rhyme, rhythm and singing- but the choice of words is intentional and deeply political. Through his music he has always brought attention to injustices embedded in our everyday lives and his memories and experiences are transformed in his work into powerful social critique"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "0de27fa0-6540-4005-beb6-8d75a4a56bde"
+    },
+    {
+      "start_time": 4385,
+      "end_time": 4415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is the song where I traced the earliest mentioned of the word Afro-Greek documented in Greek."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "f1953586-06be-4008-aa25-8b86399e4e4d"
+    },
+    {
+      "start_time": 4386,
+      "end_time": 4459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mc Yinka gives a brief explanation of the word Afro -Greek, Mc Yinka "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Afro Greek",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "cfad0f67-57dd-42e1-a145-11285239a734"
+    },
+    {
+      "start_time": 4461,
+      "end_time": 4463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "04ea8518-935c-440e-898f-dbabcbb59da2"
+    },
+    {
+      "start_time": 4467,
+      "end_time": 4479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first thing that he does as soon as he gets on stage is check with the audience if they are having fun – something he does several times during his performances - and immediately interacts with, once again the clap and response is used to elevate the energy in the auditorium. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "fc39733e-6486-4f74-8fe0-faad2031b785"
+    },
+    {
+      "start_time": 4480,
+      "end_time": 4673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Work Song, Nina Simone "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Blues",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "23d3ac8c-c48f-4bdc-9995-141e8cddc25f"
+    },
+    {
+      "start_time": 4674,
+      "end_time": 4677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "59818c3d-cd34-46ac-b068-077c7583b956"
+    },
+    {
+      "start_time": 4693,
+      "end_time": 4699,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, this is a piece that has pretty much defined me, it was something I needed to communicate to the world. At that time. Well time flies and quite a a lot of people have embraced this song. I’d like you to raise your hands if you can. One hand up. Let's salute them with respect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "17154f5a-e3d3-41be-bf72-5b7b08b3af5b"
+    },
+    {
+      "start_time": 4699,
+      "end_time": 4726,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Original song by Mc Yinka, Song - Χαιρετισμός (Salutation)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Rap",
+          "category": "Performance"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "a0b4e929-e805-4064-9d06-6a33f15e00c8"
+    },
+    {
+      "start_time": 4727,
+      "end_time": 4944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This song acknowledges the struggle of immigrants and their children, who carry stories of violence, uprooting, and injustice. It denounces institutional failures, xenophobia, and state indifference, highlighting their resilience and strength, fighting with dignity against racism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "80aca8b0-f998-4d1e-b497-210f1cecd33a"
+    },
+    {
+      "start_time": 4945,
+      "end_time": 4968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "9de5d217-7762-45e1-a65e-5a7117044ddb"
+    },
+    {
+      "start_time": 4980,
+      "end_time": 5028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now Grace and Rachel, with the help of McYinka, will attempt a different and creative approach to the songs Baldwin loved. A traditional Greek song that means a lot, along with a gospel song that raised generations, comforted the inconsolable, and accompanied Pasolini's radical film about divine passion. Their hope is that Baldwin will hear this version and add it to his playlists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "85f370d1-b79f-4025-9d53-b0119d400dd1"
+    },
+    {
+      "start_time": 5029,
+      "end_time": 5242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This performance stitches together a powerful symbolic tapestry, with the intersection of Nina Simone’s Sometimes I Feel Like a Motherless Child. A song heavily emotionally charged, with a melancholic undertone, together with the diasporic lament of abandoning home of Από ξένο τόπο (From a foreign place), and together with the urgent directness and rhythm of rap, all foregrounding themes of loss, exile, and endurance. At the background of this performance, the projection includes clips from the trip the Døcumatism team made to the forgotten village in Avato in Northen Greece, where Black Greeks have lived for hundreds of years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Rachel Nwoke",
+          "category": "Performer"
+        },
+        {
+          "tag": "Mc Yinka",
+          "category": "Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Spirituals",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "438394d3-ad7d-4280-b0dc-469a2b60f508"
+    },
+    {
+      "start_time": 5243,
+      "end_time": 5246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "bfa1432a-4142-4533-912c-c55431a788d0"
+    },
+    {
+      "start_time": 5263,
+      "end_time": 5285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well done! So, Zandi, the dancing queen from South Africa together with the Gumboot Foyo, Irene, who is a dancer and Eleni, who is an actress and whose choir the Pamoja Kanda Choir opened our event today and of course Jane, create music with their bodies (body percussion) "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "0355c49a-f3dd-4e72-9be8-891d1df934f1"
+    },
+    {
+      "start_time": 5286,
+      "end_time": 5299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, together with her, we all learned African traditional dance. Dances from our countries of origin which most of us have not even visited yet. So, dance creates an experiential connection with our roots. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "f7c9e0ae-9993-4c3d-8d01-9001a393d794"
+    },
+    {
+      "start_time": 5300,
+      "end_time": 5331,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zandi uses this creative way to teaches us the history of apartheid, in the mines, where workers were forbidden to talk to each other. Their boots and the sounds of the dance you will see restored this communication creating a powerful form of solidarity and resistance to oppression. This dance is called Gamboot dance.\nLadies, let's go! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "68d692b8-e9e6-4a25-a881-9bec89fc88b2"
+    },
+    {
+      "start_time": 5332,
+      "end_time": 5369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gumboot Dance "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Gumboot Dance",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dance"
+        },
+        {
+          "tag": "Eleni Nzanga",
+          "category": "Performance"
+        },
+        {
+          "tag": "Maria Irene Sackey",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "1540fc5b-78f9-48a2-b34c-6e33495b1f9e"
+    },
+    {
+      "start_time": 5370,
+      "end_time": 5372,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "428cdb6f-3646-4385-a568-ba3419284940"
+    },
+    {
+      "start_time": 5448,
+      "end_time": 5514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The gumboot dance originated in South Africa during apartheid. The migrant labourers who worked in the gold mines were given gumboots (rubber boots) and overalls. \nThe miners were very poorly treated and forbidden from speaking to each other. However, they developed a new way to communicate - sending messages to each other by slapping their gumboots and rattling their ankle chains. This would eventually turn into a form of dance resistance against their oppressors. \nSoon after, the miners evolved their percussive sounds and movements into a unique dance form and used it to entertain each other during their free time. The gumboot dance has since developed into a South African art form with a universal appeal. The dancers expand upon traditional steps, with the addition of theatrical movement and singing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gumboot"
+        }
+      ],
+      "uuid": "f9ea4c50-97f6-4562-9f1e-cf3b5bca19ff"
+    },
+    {
+      "start_time": 5515,
+      "end_time": 5517,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "126d97c1-36ce-4cf1-bd0b-d7ddde732833"
+    },
+    {
+      "start_time": 5525,
+      "end_time": 5538,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think we had a very good warm-up now with Gumboot, right? Adedeji, drawing on African traditions, writes contemporary songs that makes us want to move. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "db265ea7-0fa5-4b61-85c5-70bdfa2a670d"
+    },
+    {
+      "start_time": 5539,
+      "end_time": 5560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nIn a previous performance of the project, the audience took over and danced with us on the stage. There are no stairs here. I hope you don't jump on the stage. But no, do whatever you need in order to feel free, so dance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "7fb2b9b8-99ba-4c76-9ea1-2a76fe7b5e3d"
+    },
+    {
+      "start_time": 5561,
+      "end_time": 5582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Together with Yoel Soto and Carlos Menendez from Cuba and Jason Wastor from Athens, they will show the extensions and creative adaptation of musical traditions to the contemporary realities of our lives.  Adedeji will be accompanied with Natalia Osawaru, Jessica Anosike as well as our dear Grace"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "702d086a-4aaa-4b59-bee7-4a79e60087ce"
+    },
+    {
+      "start_time": 5583,
+      "end_time": 5585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "a158eca0-f090-4803-918e-2a32b2b58ee3"
+    },
+    {
+      "start_time": 5586,
+      "end_time": 5602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - They don’t really care about us. Original song by Adedeji."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": ""
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "World Jazz",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Carlos Menendez",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jason Wastor",
+          "category": "Performer"
+        },
+        {
+          "tag": "Yoel Soto",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Natalia Osawaru",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "1697dba6-0e9a-4e96-b500-b2fac2388fd3"
+    },
+    {
+      "start_time": 5603,
+      "end_time": 5927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song begins with a quote James once said, “History is not the past. It is the present. We carry our history with us. We are our history. If we pretend otherwise, we are literally criminals. The quote is split in parts and read in different languages, first in Greek, then in Igbo language and then English"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        }
+      ],
+      "uuid": "5cf88303-dbcd-4934-a045-35dbee8f9e29"
+    },
+    {
+      "start_time": 5928,
+      "end_time": 6087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Oruku. Original song by Adedeji. Adedeji is a prolific singer, guitarist and composer, whose music is an infusion of the Traditional Yoruba music with Jazz, Soul & Funk, in most of his songs he sings in Yoruba) -Oruku means darkness or cold in Yoruba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Song, Afro Funk"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Carlos Menendez",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jason Wastor",
+          "category": "Performer"
+        },
+        {
+          "tag": "Yoel Soto",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Natalia Osawaru",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "44f3f031-f3c1-47e4-84c2-5a57efaaedf0"
+    },
+    {
+      "start_time": 6088,
+      "end_time": 6254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The rhythm is contagious; the audience is beginning to stand up from their seat and dance with each other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Carlos Menendez",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jason Wastor",
+          "category": "Performer"
+        },
+        {
+          "tag": "Yoel Soto",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Natalia Osawaru",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "02685fe1-e74a-4fce-b13d-7f4148608913"
+    },
+    {
+      "start_time": 6255,
+      "end_time": 6257,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "94d18f00-e050-4f73-95d0-90e16a25e184"
+    },
+    {
+      "start_time": 6268,
+      "end_time": 6373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Morenike. Original Song by Adedeji."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Afro Funk",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Carlos Menendez",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jason Wastor",
+          "category": "Performer"
+        },
+        {
+          "tag": "Yoel Soto",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Natalia Osawaru",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "a095cd28-c950-4140-bf7a-daab4881e256"
+    },
+    {
+      "start_time": 6374,
+      "end_time": 6376,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience Dancing "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        }
+      ],
+      "uuid": "04d9de8a-e688-4f34-9016-f9f7d98cba36"
+    },
+    {
+      "start_time": 6394,
+      "end_time": 6397,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience Dancing "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        }
+      ],
+      "uuid": "b1a274c9-2bd0-4814-aa5f-6a849e63d765"
+    },
+    {
+      "start_time": 6423,
+      "end_time": 6426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience Dancing "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        }
+      ],
+      "uuid": "2b43f52b-14e9-461f-a1bd-1cdb274338e3"
+    },
+    {
+      "start_time": 6463,
+      "end_time": 6470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introducing the band "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Adedeji Adetayo"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Carlos Menendez",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jason Wastor",
+          "category": "Performer"
+        },
+        {
+          "tag": "Yoel Soto",
+          "category": "Performer"
+        },
+        {
+          "tag": "Jessica Anosike",
+          "category": "Performer"
+        },
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "tag": "Natalia Osawaru",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "55c55c82-bf9f-4f6e-8b5d-58bf1b634c80"
+    },
+    {
+      "start_time": 6558,
+      "end_time": 6561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "c2ebaf8e-139e-4059-95cd-dab7d7b365ea"
+    },
+    {
+      "start_time": 6582,
+      "end_time": 6600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see you are all on your feet. Give them a big round of applause."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "3e49975b-bfae-4a9a-8691-bc0a03e69a89"
+    },
+    {
+      "start_time": 6601,
+      "end_time": 6662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, the project The Afro Greeks has been implementing public events of all kinds for many years, screenings, workshops, music events, just as today’s, and through these events we declare that we are here, present. While you catch your breath, which I can see you need to, we have prepared for you a video showcasing events we have done since 2019. \nWhether there were restrictions or not, Afro-Greeks always take over (always in brackets) the city musically, and we fight for freedom just as music does. If you wish, you can find all the public activities we have done and filmed, on our website. Enjoy! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "1b4b12d8-2cc9-4891-90fe-e914ecfc3481"
+    },
+    {
+      "start_time": 6663,
+      "end_time": 7065,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Projection "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Video Projection",
+          "category": "Digital"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negros toy Moria"
+        }
+      ],
+      "uuid": "58d2337b-58fc-49df-aa57-7169f42c7622"
+    },
+    {
+      "start_time": 7135,
+      "end_time": 7186,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Negros Tou Moria – or “Black Morris” – is one of the most influential Greek rappers to have emerged in recent years, he mixes trap beats with traditional Greek folk-music (rebetika) and has developed his own Greek-language genre called the trabetiko. Black Morris is the approximate translation of Negros Tou Moria, which in its original Greek is an adroit play on words with Geros tou Moria, a legendary general of the 1821 Greek revolution against the Turkish occupation – this twist on a symbol of classic “Greekness” goes a long way in describing the artist’s ethos, creativity, and cultural background both Greek and Ghanian. His newest album is called Mavri Ellada (Black Greece).\n\nTranslation : Hello, this is your white friend Negros toy Moria. I would like to be with you but unfortunately, we have rehearsals and preparations to do the upcoming presentation of the Black Greece album. However, I'm waiting for you to join us, so we can show the AfroGreeks project not just only to you but to the other guests who will be here. So, they all know that I’s an experience and I would add and say it’s also a promise that there are also a Black Greece. There are also Black Greeks. I hope you're having a great time and again, I'm sorry I'm not there with you.  I'll be waiting for you on the 31st of May. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Video Projection",
+          "category": "Digital"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negros toy Moria"
+        }
+      ],
+      "uuid": "4d5b43df-6799-440f-8677-a2050e54903c"
+    },
+    {
+      "start_time": 7187,
+      "end_time": 7188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drumming and performance "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ubuntu Drum and Dance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dance"
+        },
+        {
+          "tag": "Traditional West African Dance",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Irene Sackey"
+        },
+        {
+          "tag": "Eleni Nzanga",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "9fd54136-6dd7-4fc3-ab8c-31502b0fd461"
+    },
+    {
+      "start_time": 7609,
+      "end_time": 7612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "d97fc652-9788-4b69-9b57-edfe5dd5cdfc"
+    },
+    {
+      "start_time": 7640,
+      "end_time": 7647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to reveal to you that Grace is afraid of the masquerade. And I want you to tell us why you are afraid of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "3c5a8502-8066-4b4b-b940-28186686cec2"
+    },
+    {
+      "start_time": 7648,
+      "end_time": 7653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's terrifying. I saw it walking down the hallway and I ran."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "79ad4c12-0dd2-4d28-b39f-562af511d8b9"
+    },
+    {
+      "start_time": 7654,
+      "end_time": 7703,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A church on Agathoupoleos Street in Kypseli, a group of teenagers who are building their lives in Greece and are constantly confronted with the difficulties caused by prejudice based on skin color and origin use music as an element that gives the freedom to pray in expressive ways freeing your movements, Baldwin, described the lives of Africans in the diaspora as they develop in places of worship. Today we showed you our artistic practices that empower us every day. This musical adventure leads us to our beloved ROYAL ACCORD CHOIR. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and  Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "9e2b672a-cf14-4313-8015-82a305542bad"
+    },
+    {
+      "start_time": 7704,
+      "end_time": 7720,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Many members who were with us when they first participated in the project four years ago are now abroad. This is because they found it difficult to define their identity in Greece and grow to their maximum potential due to the limitations in Greece. \nThe presence of new members in the choir, conducted by John Jolayemi, is a promise that all this can change and that we will persevere artistically and, in every way, to be the Greeks we want to be and can be. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and  Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "d5d8653d-2931-482d-b469-a8692793493a"
+    },
+    {
+      "start_time": 7721,
+      "end_time": 7736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The majority of the members of the choir were around the ages 16-19 who due to the difficulties and the limited opportunities in Greece sought scholarships to advance their education or looked for better jobs abroad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "68672738-02eb-4553-a697-164dddb4ea45"
+    },
+    {
+      "start_time": 7737,
+      "end_time": 7926,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song - Wade in the Water "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Royal Accord Choir",
+          "category": "Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "96209db1-1201-439c-92d2-9c72057033c8"
+    },
+    {
+      "start_time": 7927,
+      "end_time": 7929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "be699ed7-b7ef-4cc9-a9a5-63acec024790"
+    },
+    {
+      "start_time": 7940,
+      "end_time": 8079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Medley of songs "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Royal Accord Choir",
+          "category": "Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "9c5d5d35-c200-4245-92b4-bda735dd4fa0"
+    },
+    {
+      "start_time": 8080,
+      "end_time": 8403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here we witness a fusion of Nigerian praise-and-worship traditions with gospel. This is a reflection of the long, intertwined history of West African musical spirituality and African American Christian expression. Polyrithms, call and response, mixture of Yoruba and Igbo dances as well as gospel harmonies and improvisation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Royal Accord Choir",
+          "category": "Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dance"
+        }
+      ],
+      "uuid": "0efd5a78-334c-46e3-9847-3938f356d741"
+    },
+    {
+      "start_time": 8404,
+      "end_time": 8406,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "59ad55e9-52d9-4d5b-a489-973e4a0657c8"
+    },
+    {
+      "start_time": 8442,
+      "end_time": 8974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Song - Oh, Happy Day"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Royal Accord Choir",
+          "category": "Performer"
+        },
+        {
+          "tag": "Song",
+          "category": "Performance"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Dance"
+        },
+        {
+          "tag": "Gospel",
+          "category": "Performance"
+        },
+        {
+          "tag": "Comment",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "d18f2718-dd21-4857-9df0-655172563c62"
+    },
+    {
+      "start_time": 8975,
+      "end_time": 8976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eleni wrote a poem in which she included all the names of the protagonists of the AfroGreeks Project "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comment, Eleni Nzanga"
+        }
+      ],
+      "uuid": "8edd4df4-d385-4571-997d-17f70fb447c2"
+    },
+    {
+      "start_time": 8977,
+      "end_time": 9077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you close your eyes, you will see us. If you listen carefully, you will learn about us. We are here as one and many together. We are here, first, second, and third generation, descendants of the beginning. Children of the same family. We rise and connect with one voice, our feet rooted in a common scene. We are here, Helen, Maria, Jane, Zandi, Mary Joyce, Maroua,  Alim, Solomon, Karima, Dominic, Grace, Xenia, Mohammed, Hussein, Michalis, Daouda, Gioro, Bafouli, Dimitris, Kofi, Mikel, Charles, Jessica, Rachel, Precious, Esther, Mc Yinka, Angelos, Steven, Demoua, Nataly, Divine, Chelsea, Amouche, John, Angelos, Jessie, Deborah, Prosper, Divine, Great, Joshua, Victoria, Chukuma, Philip, Abraham, Chikamso, Ininie, we are here! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        },
+        {
+          "tag": "Eleni Nzanga",
+          "category": "Performance"
+        },
+        {
+          "tag": "Poetry",
+          "category": "Performance"
+        },
+        {
+          "tag": "Spoken Word",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "5ac48ffe-77c9-436b-8dfb-a17825885eac"
+    },
+    {
+      "start_time": 9078,
+      "end_time": 9089,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "e87c7b6a-2ef5-4c97-b8be-d3111a92cd31"
+    },
+    {
+      "start_time": 9090,
+      "end_time": 9105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you very much for being here with us today.You heard our names, and at this point we must thank the Municipality of Athens, the Olympia Theater, OΠΑΝΔΑ who gave us this venue for today's celebration"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "6255ff20-b7f0-40da-8ec5-18b5eae5188c"
+    },
+    {
+      "start_time": 9106,
+      "end_time": 9117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We want to thank Eleni Zontiriou from Kypseli, all the artists who were with us today, the Kypseli group Documantism, all our technicians who were with us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "e74719f5-8551-482a-950c-3de0744a028e"
+    },
+    {
+      "start_time": 9118,
+      "end_time": 9120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you to Menelaos, Iakovos, Stavros. All the people who worked tirelessly so that we can be here, and you can be with us. Thank you very much and of course don't leave because outside we will be continuing the party with DJ Tokyo. \nThank you very, very much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Xenia Dania",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "6e097f06-34c4-4b72-8c73-612858c3e539"
+    },
+    {
+      "start_time": 9121,
+      "end_time": 9126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Applause",
+          "category": "Interaction"
+        }
+      ],
+      "uuid": "74fc4b5a-356e-4e9d-b190-8f970d15766e"
+    },
+    {
+      "start_time": 9147,
+      "end_time": 9150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you to all the Afro-Greeks."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Grace Nwoke",
+          "category": "Presenter and Performer"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Presenter and Performer"
+        },
+        {
+          "tag": "Translation",
+          "category": "Annotation"
+        }
+      ],
+      "uuid": "e6820d36-030a-480b-b048-0e6f5ad6647a"
+    },
+    {
+      "start_time": 9169,
+      "end_time": 9172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Celebration right after the event "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "After Party"
+        }
+      ],
+      "uuid": "91f5ce70-9976-4889-986a-0ddd90f97007"
+    },
+    {
+      "start_time": 9203,
+      "end_time": 9207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Celebration right after the event "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Dj Tokyo",
+          "category": "Performer"
+        }
+      ],
+      "uuid": "8a517f32-7656-47d1-a35a-bdad7769e583"
+    },
+    {
+      "start_time": 9232,
+      "end_time": 9236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outside the theatre "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outdoors",
+          "category": "Location"
+        }
+      ],
+      "uuid": "c7f50ad7-daf1-4f6f-9d2c-1698e5cdc485"
+    }
+  ],
   "set": "Default",
   "event_id": "cd9cf460-9d7a-4d33-bab9-6ab3591ed603",
   "source_id": "56713b80-2098-421c-a5b5-1a7ab4ac943e"
