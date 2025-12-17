@@ -364,10 +364,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Presenter and  Performer"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "After Party"
         },
         {
@@ -445,7 +441,7 @@
       ]
     },
     "created_at": "2025-12-17T04:58:03.865Z",
-    "updated_at": "2025-12-17T05:59:43.510Z",
+    "updated_at": "2025-12-17T05:59:54.973Z",
     "generate_pages_site": true
   },
   "annotations": {},
