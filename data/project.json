@@ -363,10 +363,6 @@
           "tag": "Ubuntu Drum and Dance"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "After Party"
-        },
-        {
           "category": "Location",
           "tag": "Zappeion"
         },
@@ -441,7 +437,7 @@
       ]
     },
     "created_at": "2025-12-17T04:58:03.865Z",
-    "updated_at": "2025-12-17T05:59:54.973Z",
+    "updated_at": "2025-12-17T06:00:08.570Z",
     "generate_pages_site": true
   },
   "annotations": {},
