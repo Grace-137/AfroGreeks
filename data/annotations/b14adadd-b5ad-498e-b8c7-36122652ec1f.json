@@ -1,5 +1,181 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This teaser clip is a 51 second extraction from the 14minute movie that was created in 2019 by the Documatism collective and members of the African Diaspora in Athens Greece. The short movie with the title the AfroGreeks was the official inauguration of this collective community project, which  before then, did not have a title. In the clip, Mikel, one of the first protagonists of the project, explains what being an Afro-Greek is. Mikel is the first to introduce the term Afro-Greek to the collective and propose it as the title of the short movie."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        },
+        {
+          "tag": "Indoors",
+          "category": "Location"
+        }
+      ],
+      "uuid": "c8bfc1cc-1502-4e4c-81d6-9b8c3c29ca0c"
+    },
+    {
+      "start_time": 2,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This clip starts with a close up of Dimitris, a third generation Afro-Greek playing djembe (a traditional drum originally from West Africa) at the Anasa Cultural Center of African Arts and Cultures in Athens. The sound of the drumming remains in the background throughout the clip."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        },
+        {
+          "tag": "Indoors",
+          "category": "Location"
+        },
+        {
+          "tag": "Space Significance",
+          "category": "Location"
+        }
+      ],
+      "uuid": "b9a38605-3017-4d7c-aa03-ed08414a42dc"
+    },
+    {
+      "start_time": 7,
+      "end_time": 9,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A large percentage of Afro – Greeks, were born and raise in Greece to parents from African countries. They have not been to their countries of origin and tend to explore their roots through a diverse variety of ways. The ANASA cultural center is a place that give Afro-descendants that opportunity. ANASA is the only cultural centre of African arts and cultures in Athens, founded by Michael, a second generation of Nigerian descent who was born and raised in Athens. Michael is an actor, musician and activist who implemented the idea of creating a cultural center inspired by initiatives, by young people of African origin born in Greece. The center was created in an effort to tackle racial prejudice, xenophobia and racism, through art and culture. The cultural Center empowers and supports young individuals who are members of the African Diaspora and Michael also teaches West African multi-rhythm and drumming (djembe, dundun) introducing African culture and heritage to the Greek society, including the Black communities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        },
+        {
+          "tag": "Indoors",
+          "category": "Location"
+        }
+      ],
+      "uuid": "46662a25-9152-4fe2-8847-90441d71fb1a"
+    },
+    {
+      "start_time": 9,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When asked ‘’Where are you from’’, the reply can vary. Where someone is from is part of their identity. In the clip, some mention where they were born, others mention where their parents are from, others refer to where they have lived most of their lives and are specific mentioning the city as well. Others believe it’s necessary to mention both where their ancestry is from and their place of birth or would rather say they are Greek and give some context about it mentioning their ancestry, while for others, the specific location they are situated in currently (Kypseli) is part of the journey in forming their identity.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Afro Greek",
+          "category": "Main Focus"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "fbd080b6-aa36-4f63-a7a9-d0e9f36ac3de"
+    },
+    {
+      "start_time": 22,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kypseli being a home:  Kypseli is a typical example of a metropolitan neighbourhood, as it incorporates historical layers of urbanization, social mobility, migration flows, and contemporary trends in the reuse of space. In the 30s the area was developed by upper-class residents who created residences and later apartment buildings. The area was then subsequently shaped by waves of internal and international migration, from the arrival of refugees from Asia Minor to immigrants from Eastern Europe and the rest of the world. This composition led to a multicultural everyday life, where locals and immigrants coexist, redefining public space and forming new practices of urban life. However, the area also went through phases of decline, with abandoned or neglected properties, which then returned to the housing market, often thanks to immigrants who revitalized them by occupying them for cheap rent. Up till recently Kypseli was an isolated and invisible neighbourhood where most foreigners in Athens lived, the majority of which were of African descent. The neighbourhood was once seen unsafe and dangerous to walk around during night hours but the residents of the neighbourhood never gave up on Kypseli, making it one of the most colourful neighbourhoods in Athens, where you can still experience hospitality and community. A place with a plethora of artistic initiatives, studios, cafes and the most beautiful neoclassical buildings and oldest bars, diners and theatres in the center of Athens. Kypseli’s historical trajectory, from a \"good investment area\" to a zone of \"degradation\" and then back on the rise, is directly linked to contemporary gentrification processes, making Kypseli a living laboratory of urban complexity, where it once functioned as a \"ghetto\" for marginalized populations and today is part of gentrification trends, while still maintaining the microcosms that make it unique."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Kypseli",
+          "category": "Location"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Comments"
+        }
+      ],
+      "uuid": "a79bdf6a-bd0e-412c-a087-23922152508a"
+    },
+    {
+      "start_time": 30,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Afro - Greek "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Afro Greek",
+          "category": "Main Focus"
+        },
+        {
+          "tag": "Outdoors",
+          "category": "Location"
+        }
+      ],
+      "uuid": "8dba1748-6d4d-4af8-bcea-69e2b1f39e45"
+    },
+    {
+      "start_time": 43,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the end."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Closing Credits",
+          "category": "Credits"
+        }
+      ],
+      "uuid": "b1dfc2e4-b49b-44d7-953a-1ec58a1c4e5c"
+    }
+  ],
   "set": "Default",
   "event_id": "3aed23d4-d1a3-4978-b3b9-49c16297afb6",
   "source_id": "1adac53b-e628-4f9c-88c3-9c4323b41ada"
